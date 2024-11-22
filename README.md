@@ -2,7 +2,7 @@
 # Create a Company Logo Generator using AI
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 How to start this project
 
