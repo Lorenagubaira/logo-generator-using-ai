@@ -2,7 +2,7 @@
 # Crear un Generador de Logos de Empresa usando IA
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 ¿Cómo iniciar este proyecto?
 
