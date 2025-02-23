@@ -2,7 +2,7 @@
 # Crear un Generador de Logos de Empresa usando IA
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
 
 ## 🌱 ¿Cómo iniciar este proyecto?
 
@@ -18,7 +18,7 @@ https://github.com/4GeeksAcademy/react-hello
 
 > ⚠ Necesitarás tener Node.js instalado si lo haces localmente, pero todo eso ya está instalado en Codespaces o Gitpod.
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instrucciones
 
